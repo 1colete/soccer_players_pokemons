@@ -14,7 +14,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 1. Instalação do Python
 2. Clone the repo
    ```sh
-   git clone hhttps://github.com/1colete/dh_projeto_integrador.git
+   git clone https://github.com/1colete/soccer_players_pokemons.git
    ```
 3. Criar um ambiente virtual e instalar Requirements.txt
    ```sh
@@ -44,5 +44,5 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
 
 ## Licença
 
-Esse projeto está sob licença MIT. Veja o arquivo [LICENÇA](https://github.com/1colete/dh_projeto_integrador/blob/main/LICENSE.md) para mais detalhes.
+Esse projeto está sob licença MIT. Veja o arquivo [LICENÇA](https://github.com/1colete/soccer_players_pokemons/blob/main/LICENSE.md) para mais detalhes.
 
